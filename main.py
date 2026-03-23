@@ -1,7 +1,7 @@
 """
 Smart Helmet for Coal Mine Workers
 Author: Kogila Harsha Vardhan Varma
-Hardware: Arduino + Buzzer, GSM, Gas & Temperature Sensors
+Simulation: Pure Python-based smart helmet safety system 
 """
 
 import time
